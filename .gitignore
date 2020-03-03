@@ -1,0 +1,7 @@
+.vscode/
+go.sum
+.idea/
+main
+Bagisaja-go.exe
+Bagisaja-go.exe~
+logs/
